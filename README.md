@@ -29,7 +29,7 @@ This repository contains a complete clustering analysis of the Bank Marketing da
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/bank-marketing-clustering.git
+   git clone https://github.com/Muath-almatarneh/bank-marketing-clustering.git
    ```
 2. Open the notebook `#2.ipynb` in Jupyter or VS Code.
 3. Make sure you have the dataset at the specified path or update the path in the notebook.
